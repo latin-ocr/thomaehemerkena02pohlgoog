@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thomaehemerkena02pohlgoog_0352.png"; bbox 0 0 2142 4172; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 216 1632 720 1826">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 216 1632 720 1826">
+     <span class='ocr_line' id='line_1_1' title="bbox 216 1632 720 1709; baseline 0.006 -16"><span class='ocrx_word' id='word_1_1' title='bbox 216 1632 486 1709; x_wconf 73' lang='lat' dir='ltr'><strong>[TRAeTATvs</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 509 1632 720 1696; x_wconf 75' lang='lat' dir='ltr'>ALTEmvs</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 300 1746 626 1826; baseline 0.003 -18"><span class='ocrx_word' id='word_1_3' title='bbox 300 1747 410 1810; x_wconf 78' lang='lat' dir='ltr'>PARS</span> <span class='ocrx_word' id='word_1_4' title='bbox 433 1746 626 1826; x_wconf 56' lang='lat' dir='ltr'>ALTERA]</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 82 2048 841 2134">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 82 2048 841 2134">
+     <span class='ocr_line' id='line_1_3' title="bbox 82 2048 841 2134; baseline 0 -17"><span class='ocrx_word' id='word_1_5' title='bbox 82 2050 151 2117; x_wconf 90' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_6' title='bbox 174 2048 496 2134; x_wconf 79' lang='lat' dir='ltr'><strong>ASCENSIONE‚</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 523 2049 841 2119; x_wconf 88' lang='lat' dir='ltr'><strong>PENTECOSTE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 197 2190 733 2277">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 197 2190 733 2277">
+     <span class='ocr_line' id='line_1_4' title="bbox 197 2190 733 2277; baseline -0.002 -20"><span class='ocrx_word' id='word_1_8' title='bbox 197 2190 255 2258; x_wconf 90' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_9' title='bbox 281 2190 404 2258; x_wconf 80' lang='lat' dir='ltr'>ALIIS</span> <span class='ocrx_word' id='word_1_10' title='bbox 433 2190 733 2277; x_wconf 79' lang='lat' dir='ltr'>QVIBVSDAM.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1076 4172">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1076 4172">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1076 4172; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1076 4172; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

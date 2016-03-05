@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thomaehemerkena02pohlgoog_0076.png"; bbox 0 0 2118 4180; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 224 1479 691 1673">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 224 1479 691 1673">
+     <span class='ocr_line' id='line_1_1' title="bbox 224 1479 691 1560; baseline 0 -19"><span class='ocrx_word' id='word_1_1' title='bbox 224 1479 493 1560; x_wconf 73' lang='lat' dir='ltr'><strong>[TRACTATvs</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 516 1480 691 1543; x_wconf 76' lang='lat' dir='ltr'>pmoms</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 294 1594 620 1673; baseline -0.003 -16"><span class='ocrx_word' id='word_1_3' title='bbox 294 1596 403 1658; x_wconf 78' lang='lat' dir='ltr'>PARS</span> <span class='ocrx_word' id='word_1_4' title='bbox 428 1594 620 1673; x_wconf 60' lang='lat' dir='ltr'>ALTERA]</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 64 1884 833 2130">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 64 1884 833 2130">
+     <span class='ocr_line' id='line_1_3' title="bbox 179 1884 731 1954; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 179 1887 244 1954; x_wconf 89' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_6' title='bbox 270 1885 507 1954; x_wconf 79' lang='lat' dir='ltr'>PASSIONE</span> <span class='ocrx_word' id='word_1_7' title='bbox 534 1884 731 1954; x_wconf 89' lang='lat' dir='ltr'>CHRISTI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 64 2042 833 2130; baseline -0.008 -12"><span class='ocrx_word' id='word_1_8' title='bbox 64 2045 347 2118; x_wconf 88' lang='lat' dir='ltr'>SECVNDVM</span> <span class='ocrx_word' id='word_1_9' title='bbox 368 2043 572 2114; x_wconf 87' lang='lat' dir='ltr'>SCRIPTA</span> <span class='ocrx_word' id='word_1_10' title='bbox 595 2042 833 2130; x_wconf 84' lang='lat' dir='ltr'>QVATVOR</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 229 2202 684 2273">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 229 2202 684 2273">
+     <span class='ocr_line' id='line_1_5' title="bbox 229 2202 684 2273; baseline -0.002 -2"><span class='ocrx_word' id='word_1_11' title='bbox 229 2202 684 2273; x_wconf 80' lang='lat' dir='ltr'>EVANGELISTARVM.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1064 4180">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1064 4180">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1064 4180; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1064 4180; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
